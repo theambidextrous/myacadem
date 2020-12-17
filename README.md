@@ -1,8 +1,8 @@
 
-## About WEL
+## About MyAcademicWriter.com
 
 
-## Learning platform
+## Academic Writing platform
 
 
 ## License
