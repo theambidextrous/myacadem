@@ -1,0 +1,45 @@
+none***Admission/ Application Essay
+none***Annotated Bibliography
+none***Argumentative Essay
+none***Article
+none***Assignment
+none***Book Report/Review
+none***Business Plan
+none***Capstone Project
+none***Case study
+none***Coursework
+none***Cover Letter Writing
+none***Dissertation
+none***Dissertation chapter-Abstract
+none***Dissertation chapter-Introduction chapter
+none***Dissertation chapter-Literature review
+none***Dissertation chapter-Methodology
+none***Dissertation chapter-Results
+none***Dissertation chapter-Discussion
+none***Editing
+none***Essay
+none***Formatting
+none***Lab Report
+math***Math Problem
+none***Movie Review
+choice***Multiple Choice Questions
+nword***Non-word Assignment
+none***Outline
+none***Paraphrasing
+none***Personal Statement
+ppt***PowerPoint Presentation Plain
+none***Power Point Presentation with Speaker Notes
+none***Proofreading
+none***Reaction Paper
+none***Report
+none***Research Paper
+none***Research Proposal
+none***Resume Editing
+none***Rewriting
+none***Scholarship Essay
+none***Speech
+none***Statistics Project
+none***Term Paper
+none***Thesis
+none***Thesis Proposal
+none***Tutoring
